@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/suyalPortfolio/static/css/main.f134d861.css",
+    "main.js": "/suyalPortfolio/static/js/main.5e07829e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/suyalPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/helvetica-neu.ttf": "/suyalPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/suyalPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/suyalPortfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/ecom.jpg": "/suyalPortfolio/static/media/ecom.1d158dd73f5acda6682a.jpg",
+    "static/media/CoolveticaRg-Regular.woff2": "/suyalPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/suyalPortfolio/index.html",
+    "main.f134d861.css.map": "/suyalPortfolio/static/css/main.f134d861.css.map",
+    "main.5e07829e.js.map": "/suyalPortfolio/static/js/main.5e07829e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/suyalPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f134d861.css",
+    "static/js/main.5e07829e.js"
+  ]
+}
